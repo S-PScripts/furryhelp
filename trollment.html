@@ -2,7 +2,27 @@
 <html>
   <body>
     <video autoplay loop width="100%">
-      <source src="rickrolled.mp4" type="video/mp4"> Furry Help is loading...
+      <source src="rickrolled.mp4" type="video/mp4"> Furry Help is getting ready.
     </video>
+    <script>
+
+      const currentURL = "rickroll.mp4";
+      const pageTitle = "Loading...";
+      
+      function setTitle() {
+        document.title = pageTitle;
+      }
+
+      function redirect() {
+        window.location.href = currentURL;
+      }
+
+      function onload() {
+        setTitle();
+        redirect();
+      }
+      
+      window.onload = onload();
+    </script>
   </body>
 </html>
