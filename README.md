@@ -1,4 +1,4 @@
-# skidnation
+# furryhelp
 
 ## Links:
--> https://skidnation.pages.dev/
+-> https://furryhelp.pages.dev/
