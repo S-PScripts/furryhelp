@@ -1,5 +1,4 @@
-# furryhelp
-This is a joke website.
+# skidnation
 
 ## Links:
--> https://furryhelp.pages.dev/
+-> https://skidnation.pages.dev/
